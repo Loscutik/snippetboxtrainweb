@@ -1,3 +1,3 @@
-module golangs.org/snippetbox
+module snippetbox
 
 go 1.15
