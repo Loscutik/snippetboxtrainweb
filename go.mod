@@ -1,3 +1,3 @@
-module loscutik/snippetbox
-// training creating a web-app
-go 1.19
+module golangs.org/snippetbox
+
+go 1.15
