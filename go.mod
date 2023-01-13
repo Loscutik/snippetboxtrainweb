@@ -1,3 +1,3 @@
-module github.com/Loscutik/snippetbox-train-web
+module github.com/Loscutik/snippetboxtrainweb
 
 go 1.19
